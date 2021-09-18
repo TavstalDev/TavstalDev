@@ -20,23 +20,33 @@ Welcome to my github! I'm Tavstal, a 17 years old Hungarian programmer student. 
 
 ## 👩‍💻 Languages
 
+Level Name | Meaning
+------------ | ------------
+`Plan (P)` | `I don't know too much about the language, but I would like to learn it in the future.`
+`Beginner (B)` | `I have a little experience.`
+`Advanced Beginner (AB)` | `I'm not a beginner, but I wouldn't say I'm advanced.`
+`Advanced (A)` | `I have a lot of experience.`
+`Senior (S)` | `I'm an expert.`
+
 Language | Number of years experience | Level |
 ------------ | :-----------: | -------------
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> | `2+ years` | `advanced` | <!---C#--->
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | `0 years` | `student` | <!---C++--->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | `0 years` | `beginner` | <!---JAVA--->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | `0 years` | `beginner` | <!---JavaScript--->
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | `half+ year` | `beginner` | <!---TYPESCRIPT--->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | `0 years` | `student` | <!---Python--->
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> | `0 years` | `beginner` | <!---LUA--->
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> | `2+ years` | `AB` | <!---C#--->
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | `0 years` | `B` | <!---C++--->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | `0 years` | `P` | <!---JAVA--->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | `0 years` | `B` | <!---JavaScript--->
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | `half+ year` | `B` | <!---TYPESCRIPT--->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | `0 years` | `B` | <!---Python--->
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> | `0 years` | `P` | <!---LUA--->
 
 ## 🚀 Frameworks
 Framework | Number of years experience | Level |
 ------------ | :-----------: | :-----------:
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> | `2+ years` | `beginner` | <!---MySql--->
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> | `2+ years` | `beginner` | <!---.NET--->
-<img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" /> | `1+ years` | `between beginner and advanced` | <!---UnrealEngine--->
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> | `2+ years` | `beginner (mod creating)` | <!---Unity--->
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> | `2+ years` | `AB` | <!---MySql--->
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> | `2+ years` | `AB` | <!---.NET--->
+<img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" /> | `1+ years` | `AB` | <!---UnrealEngine--->
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> | `2+ years` | `B` | <!---Unity--->
+<img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /> | `0 years` | `P` | <!---Godot--->
+`CryEngine` | `0 years` | `P` | <!---CryEngine--->
 
 
 ## 🧰 Tools
