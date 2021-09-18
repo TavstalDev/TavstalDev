@@ -17,8 +17,7 @@ Welcome to my github! I'm Tavstal, a 17 years old Hungarian programmer student. 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](not_available)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCPEBKze3LKv3VgqsPj-9D_A)
 
-
-## 👩‍💻 Languages
+## 🎓 Experience levels
 
 Level Name | Meaning
 ------------ | ------------
@@ -27,6 +26,8 @@ Level Name | Meaning
 `Advanced Beginner (AB)` | `I'm not a beginner, but I wouldn't say I'm advanced.`
 `Advanced (A)` | `I have a lot of experience.`
 `Senior (S)` | `I'm an expert.`
+
+## 👩‍💻 Languages
 
 Language | Number of years experience | Level |
 ------------ | :-----------: | -------------
