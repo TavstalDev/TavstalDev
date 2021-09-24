@@ -1,7 +1,7 @@
 
 <h1 align="Center">About me</h1>
 
-Welcome to my github! I'm Tavstal, a 17 years old Hungarian programmer student. I make plugins for Unturned 3.28.x and I will make plugins for Unturned 4.0 too. When I'm not making plugins then I'm developing games in Unreal Engine 4. I have got a few skills in Unreal Engine for example: Gameplay programming, Multiplayer replication (hide the pain Tavstal), basic AI programming and I have basic knowledge of playfab's typescript.
+Welcome to my github! I'm Tavstal, a 17 years old Hungarian programmer student. My main language is C# and I'm learning C++. I'm developing games in Unreal Engine 4. I have got a few skills in Unreal Engine for example: Gameplay programming, Multiplayer replication (hide the pain Tavstal), basic AI programming and I have basic knowledge of playfab's typescript.
 
 
 ## 📊 My stats
