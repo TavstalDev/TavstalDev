@@ -1,7 +1,9 @@
 
 <h1 align="Center">About me</h1>
 
-Welcome to my github! I'm Tavstal, a 17 years old Hungarian programmer student. My main language is C# and I'm learning C++. I'm developing games in Unreal Engine 4. I have got a few skills in Unreal Engine for example: Gameplay programming, Multiplayer replication (hide the pain Tavstal), basic AI programming and I have basic knowledge of playfab's typescript.
+int MyAge = (DateTime.Now - DateTime(2004, 02, 19).Year;
+
+Welcome to my github! I'm Tavstal, a {MyAge} years old Hungarian programmer student. My main language is C# and I'm learning C++. I'm developing games in Unreal Engine 4. I have got a few skills in Unreal Engine for example: Gameplay programming, Multiplayer replication (hide the pain Tavstal), basic AI programming and I have basic knowledge of playfab's typescript.
 
 
 ## 📊 My stats
