@@ -33,7 +33,7 @@ Level Name | Meaning
 Language | Number of years experience | Level |
 ------------ | :-----------: | -------------
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> | `3+ years` | `AB` | <!---C#--->
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | `0 years` | `B` | <!---C++--->
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | `half+ years` | `B` | <!---C++--->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | `0 years` | `P` | <!---JAVA--->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | `0 years` | `B` | <!---JavaScript--->
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | `half+ year` | `B` | <!---TYPESCRIPT--->
