@@ -3,8 +3,7 @@
 
 int MyAge = (DateTime.Now - DateTime(2004, 02, 19).Year;
 
-Welcome to my github! I'm Tavstal, a {MyAge} years old Hungarian programmer student. My main language is C# and I'm learning C++. I'm developing games in Unreal Engine 4. I have got a few skills in Unreal Engine for example: Gameplay programming, Multiplayer replication (hide the pain Tavstal), basic AI programming and I have basic knowledge of playfab's typescript.
-
+$"Welcome to my github! I'm Tavstal, a {MyAge} years old Hungarian programmer student. My main language is C# and I'm learning C++. I'm developing games in Unreal Engine 4. I have got a few skills in Unreal Engine for example: Gameplay programming, Multiplayer replication (hide the pain Tavstal), basic AI programming and I have basic knowledge of playfab's typescript."
 
 ## 📊 My stats
 ![Tavstal's github stats](https://github-readme-stats.vercel.app/api?username=TavstalDev&show_icons=true&theme=tokyonight)
@@ -33,7 +32,7 @@ Level Name | Meaning
 
 Language | Number of years experience | Level |
 ------------ | :-----------: | -------------
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> | `2+ years` | `AB` | <!---C#--->
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> | `3+ years` | `AB` | <!---C#--->
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | `0 years` | `B` | <!---C++--->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | `0 years` | `P` | <!---JAVA--->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | `0 years` | `B` | <!---JavaScript--->
@@ -44,9 +43,9 @@ Language | Number of years experience | Level |
 ## 🚀 Frameworks
 Framework | Number of years experience | Level |
 ------------ | :-----------: | :-----------:
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> | `2+ years` | `AB` | <!---MySql--->
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> | `2+ years` | `AB` | <!---.NET--->
-<img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" /> | `1+ years` | `AB` | <!---UnrealEngine--->
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> | `3+ years` | `AB` | <!---MySql--->
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> | `3+ years` | `AB` | <!---.NET--->
+<img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" /> | `2+ years` | `AB` | <!---UnrealEngine--->
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> | `2+ years` | `B` | <!---Unity--->
 <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /> | `0 years` | `P` | <!---Godot--->
 `CryEngine` | `0 years` | `P` | <!---CryEngine--->
