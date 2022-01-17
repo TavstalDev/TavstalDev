@@ -37,7 +37,7 @@ Language | Number of years experience | Level |
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | `0 years` | `P` | <!---JAVA--->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | `0 years` | `B` | <!---JavaScript--->
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | `half+ year` | `B` | <!---TYPESCRIPT--->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | `0 years` | `B` | <!---Python--->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | `half+ years` | `B` | <!---Python--->
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> | `0 years` | `P` | <!---LUA--->
 
 ## 🚀 Frameworks
