@@ -3,7 +3,7 @@
 
 int MyAge = (DateTime.Now - DateTime(2004, 02, 19).Year;
 
-$"Welcome to my github! I'm Tavstal, a {MyAge} years old Hungarian programmer student. My main language is C# and I'm learning C++. I develop game server plugins for Unturned 3 RocketMod. Also I develop games in Unreal Engine 4. I have got a few skills in Unreal Engine for example: Gameplay programming, Multiplayer replication (hide the pain Tavstal), basic AI programming and I have basic knowledge of playfab's typescript. I can make dsharpplus based bots."
+$"Welcome to my github! I'm Tavstal, a {MyAge} years old programmer student. My main language is C# and I'm learning C++. I develop game server plugins for Unturned 3 RocketMod. Also I develop games in Unreal Engine 4. I have got a few skills in Unreal Engine for example: Gameplay programming, Multiplayer replication (hide the pain Tavstal), basic AI programming and I have basic knowledge of playfab's typescript. I can make dsharpplus based bots."
 
 ## 📊 My stats
 ![Tavstal's github stats](https://github-readme-stats.vercel.app/api?username=TavstalDev&show_icons=true&theme=tokyonight)
