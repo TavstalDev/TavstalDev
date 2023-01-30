@@ -31,14 +31,14 @@ Language | Number of years experience |
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> | `0 years` |  <!---LUA--->
 
 ## 🚀 Frameworks
-Framework | Number of years experience | Level |
------------- | :-----------: | :-----------:
+Framework | Number of years experience |
+:------------ | -----------: | 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> | `4+ years` |  <!---MySql--->
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> | `4+ years` |  <!---.NET--->
 <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" /> | `3+ years` |  <!---UnrealEngine--->
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> | `2+ years` |  <!---Unity--->
 <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /> | `0 years` |  <!---Godot--->
-`CryEngine` | `0 years` | `P` | <!---CryEngine--->
+`CryEngine` | `0 years` | <!---CryEngine--->
 
 
 ## 🧰 Tools
