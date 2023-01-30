@@ -11,6 +11,8 @@ $"Welcome to my github! I'm Tavstal, a {MyAge} years old programmer student. My 
 
 ![Tavstal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TavstalDev&theme=tokyonight&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TavstalDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📱 Contact me
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: "tavstal@gmail.com")
