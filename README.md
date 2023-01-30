@@ -9,9 +9,7 @@ $"Welcome to my github! I'm Tavstal, a {MyAge} years old programmer student. My 
 ![Tavstal's github stats](https://github-readme-stats.vercel.app/api?username=TavstalDev&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
 
-![Tavstal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TavstalDev&theme=tokyonight&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TavstalDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TavstalDev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📱 Contact me
 
