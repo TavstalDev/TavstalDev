@@ -1,9 +1,7 @@
 
 <h1 align="Center">About me</h1>
 
-int MyAge = (DateTime.Now - DateTime(2004, 02, 19).Year;
-
-$"Welcome to my github! I'm Tavstal, a {MyAge} years old programmer student. My main language is C# and I'm learning C++. I develop game server plugins for Unturned 3 RocketMod. Also I develop games in Unreal Engine 4. I have got a few skills in Unreal Engine for example: Gameplay programming, Multiplayer replication (hide the pain Tavstal), basic AI programming and I have basic knowledge of playfab's typescript. I can make dsharpplus based bots."
+Welcome to my github! I'm Tavstal, a {(DateTime.Now - DateTime(2004, 02, 19).Year} years old programmer student. My main language is C# and I'm learning C++. I develop game server plugins for Unturned 3 RocketMod. Also I develop games in Unreal Engine 4. I have got a few skills in Unreal Engine for example: Gameplay programming, Multiplayer replication (hide the pain Tavstal), basic AI programming and I have basic knowledge of playfab's typescript. I can make dsharpplus based bots.
 
 ## 📱 Contact me
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: "tavstal@gmail.com")
