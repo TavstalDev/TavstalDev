@@ -17,7 +17,7 @@ Welcome to my github! I'm Tavstal, a {(DateTime.Now - DateTime(2004, 02, 19).Yea
 
 <img style="float:left" src="https://github-readme-streak-stats.herokuapp.com/?user=TavstalDev&theme=tokyonight&count_private=true" alt="mystreak"/>
 
-![Top Langs](https://github-readme-stats-4v11nojao-tavstaldev.vercel.app/api/top-langs/?username=TavstalDev&count_private=true&exclude_repo=Redstoneplugins&layout=compact&theme=tokyonight&langs_count=10)
+![Please reload the page to see my top prog. languages](https://github-readme-stats-4v11nojao-tavstaldev.vercel.app/api/top-langs/?username=TavstalDev&count_private=true&exclude_repo=Redstoneplugins,Unturfield&layout=compact&theme=tokyonight&langs_count=10)
 </details>
   
 <details>
