@@ -13,7 +13,7 @@ Welcome to my github! I'm Tavstal, a {(DateTime.Now - new DateTime(2004, 02, 19)
 <summary><h2>📊 My stats</h2></summary>
 <br>
 
-<img style="float:left" src="https://github-readme-stats.vercel.app/api?username=TavstalDev&user=TavstalDev&show_icons=true&theme=tokyonight&count_private=true" alt="mystat"/>
+<img style="float:left" src="https://github-readme-stats-4v11nojao-tavstaldev.vercel.app/api?username=TavstalDev&user=TavstalDev&show_icons=true&theme=tokyonight&count_private=true" alt="mystat"/>
 
 <img style="float:left" src="https://github-readme-streak-stats.herokuapp.com/?user=TavstalDev&theme=tokyonight&count_private=true" alt="mystreak"/>
 
