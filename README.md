@@ -13,11 +13,11 @@ Welcome to my github! I'm Tavstal, a {(DateTime.Now - new DateTime(2004, 02, 19)
 <summary><h2>📊 My stats</h2></summary>
 <br>
 
-<img style="float:left" src="https://github-readme-stats-4v11nojao-tavstaldev.vercel.app/api?username=TavstalDev&user=TavstalDev&show_icons=true&theme=tokyonight&count_private=true" alt="Please reload the page to see my stat."/>
+<img style="float:left" src="https://github-readme-stats-z7shewh34-tavstaldev.vercel.app/api?username=TavstalDev&user=TavstalDev&show_icons=true&theme=tokyonight&count_private=true" alt="Please reload the page to see my stat."/>
 
 <img style="float:left" src="https://github-readme-streak-stats.herokuapp.com/?user=TavstalDev&theme=tokyonight&count_private=true" alt="mystreak"/>
 
-![Please reload the page to see my top prog. languages](https://github-readme-stats-4v11nojao-tavstaldev.vercel.app/api/top-langs/?username=TavstalDev&count_private=true&exclude_repo=Redstoneplugins,Unturfield&layout=compact&theme=tokyonight&langs_count=10)
+![Please reload the page to see my top prog. languages](https://github-readme-stats-z7shewh34-tavstaldev.vercel.app/api/top-langs/?username=TavstalDev&count_private=true&exclude_repo=Redstoneplugins,Unturfield&layout=compact&theme=tokyonight&langs_count=10)
 </details>
   
 <details>
