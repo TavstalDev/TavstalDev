@@ -39,7 +39,7 @@ Language | Number of years experience |
 <details>
 <summary><h2>🚀 Frameworks</h2></summary>
 <br>
- 
+
 Framework | Number of years experience |
 :------------ | -----------: | 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> | `4+ years` |  <!---MySql--->
