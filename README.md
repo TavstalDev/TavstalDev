@@ -32,7 +32,7 @@ Language | Number of years experience |
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | `1+ years` |  <!---JavaScript--->
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | `half+ years` | <!---TYPESCRIPT--->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | `half+ years` | <!---Python--->
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> | `0 years` |  <!---LUA--->
+<!--<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> | `0 years` |-->  <!---LUA--->
  
 </details>
   
