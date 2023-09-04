@@ -1,9 +1,9 @@
 
 <h1 align="Center">About me</h1>
 
-Welcome to my github profile.
-My name is Zoltan and I use "Tavstal" as my nick. 
-I'm a passionate self-taught programmer from Hungary. My main focus is on C# and the .NET, .NETFramework and .ASPNET frameworks to develop various library, console, desktop or web applications.
+<p align="center">Welcome to my github profile.</p>
+<p align="center">My name is Zoltan and I use "Tavstal" as my nick.</p> 
+<p align="center">I'm a passionate self-taught programmer from Hungary. My main focus is on C# and the .NET, .NETFramework and .ASPNET frameworks to develop various library, console, desktop or web applications.</p>
 
 ## 
 
@@ -32,7 +32,7 @@ Language | Number of years experience |
 :------------ | -----------: |
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> | `4+ years` | <!---C#--->
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | `half+ years` |  <!---C++--->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | `half+ years` |  <!---JAVA--->
+<!--<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | `half+ years` |  <!---JAVA--->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | `1+ years` |  <!---JavaScript--->
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | `half+ years` | <!---TYPESCRIPT--->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | `half+ years` | <!---Python--->
@@ -50,8 +50,8 @@ Framework | Number of years experience |
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> | `4+ years` |  <!---.NET--->
 <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" /> | `3+ years` |  <!---UnrealEngine--->
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> | `2+ years` |  <!---Unity--->
-<img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /> | `0 years` |  <!---Godot--->
-`CryEngine` | `0 years` | <!---CryEngine--->
+<!--<img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /> | `0 years` |  <!---Godot--->
+<!--`CryEngine` | `0 years` | <!---CryEngine--->
  
 </details>
 
