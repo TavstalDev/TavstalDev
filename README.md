@@ -1,7 +1,11 @@
 
 <h1 align="Center">About me</h1>
 
-Welcome to my github! I'm Tavstal, a {(DateTime.Now - new DateTime(2004, 02, 19).Year} years old programmer student. My main language is C# and I'm learning C++. I develop game server plugins for Unturned 3 RocketMod. Also I develop games in Unreal Engine 4. I have got a few skills in Unreal Engine for example: Gameplay programming, Multiplayer replication (hide the pain Tavstal), basic AI programming and I have basic knowledge of playfab's typescript. I can make dsharpplus based bots.
+Welcome to my github profile.
+My name is Zoltan and I use "Tavstal" as my nick. 
+I'm a passionate self-taught programmer from Hungary. My main focus is on C# and the .NET, .NETFramework and .ASPNET frameworks to develop various library, console, desktop or web applications.
+
+## 
 
 ## 📱 Contact me
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tavstal@gmail.com)
@@ -13,9 +17,9 @@ Welcome to my github! I'm Tavstal, a {(DateTime.Now - new DateTime(2004, 02, 19)
 <summary><h2>📊 My stats</h2></summary>
 <br>
 
-<img style="float:left" src="https://github-readme-stats-z7shewh34-tavstaldev.vercel.app/api?username=TavstalDev&user=TavstalDev&show_icons=true&theme=tokyonight&count_private=true" alt="Please reload the page to see my stat."/>
+<img style="float:left" src="https://github-readme-stats-z7shewh34-tavstaldev.vercel.app/api?username=TavstalDev&user=TavstalDev&show_icons=true&theme=tokyonight&count_private=true" alt="Please reload the page to see my stats."/>
 
-<img style="float:left" src="https://github-readme-streak-stats.herokuapp.com/?user=TavstalDev&theme=tokyonight&count_private=true" alt="mystreak"/>
+<img style="float:left" src="https://github-readme-streak-stats.herokuapp.com/?user=TavstalDev&theme=tokyonight&count_private=true" alt="Please reload the page to see my streak."/>
 
 ![Please reload the page to see my top prog. languages](https://github-readme-stats-z7shewh34-tavstaldev.vercel.app/api/top-langs/?username=TavstalDev&count_private=true&exclude_repo=Redstoneplugins,Unturfield&layout=compact&theme=tokyonight&langs_count=10)
 </details>
