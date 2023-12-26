@@ -3,6 +3,7 @@
 My name is Zoltan and I use "Tavstal" as my nick.<br/>
 I'm a passionate self-taught programmer from Hungary. My main focus is on C# and the .NET, .NETFramework and .ASPNET frameworks to develop various library, console, desktop or web applications. I'm up to learn new technologies and programming languages.
 
+<!-- Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zoltan-solymosi-1390a2232/)
 [![Email](https://img.shields.io/badge/tavstal@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tavstal@gmail.com)
