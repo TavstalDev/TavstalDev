@@ -33,6 +33,8 @@ I'm a passionate self-taught programmer from Hungary with a strong focus on C# a
 
 ## 📊 GitHub Stats
 
+![](https://komarev.com/ghpvc/?username=TavstalDev)
+
 > ⚠️ **Note:** If the stats below do not appear correctly, please try refreshing the page.
 
 ![GitHub Stats](https://github-readme-stats-tavstaldevs-projects.vercel.app/api?username=TavstalDev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
