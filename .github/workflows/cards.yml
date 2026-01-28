@@ -27,7 +27,7 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
-          options: 'username=TavstalDev&count_private=true&exclude_repo=Redstoneplugins,Unturfield&layout=compact&theme=tokyonight&langs_count=10'
+          options: 'username=TavstalDev&count_private=true&exclude_repo=Redstoneplugins,Unturfield&hide=ShaderLab,HLSL&layout=compact&theme=tokyonight&langs_count=10'
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS }}
           
