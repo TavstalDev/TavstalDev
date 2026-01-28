@@ -37,11 +37,10 @@ I'm a passionate self-taught programmer from Hungary with a strong focus on C# a
 
 > ⚠️ **Note:** If the stats below do not appear correctly, please try refreshing the page.
 
-![GitHub Stats](https://github-readme-stats-tavstaldevs-projects.vercel.app/api?username=TavstalDev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![Stats](./profile/stats.svg)
 ![Contribution Streak](https://github-readme-streak-stats-tavstaldevs-projects.vercel.app/?user=TavstalDev&theme=tokyonight&count_private=true)
 
-
-![Top Languages Used](https://github-readme-stats-tavstaldevs-projects.vercel.app/api/top-langs/?username=TavstalDev&count_private=true&exclude_repo=Redstoneplugins,Unturfield&layout=compact&theme=tokyonight&langs_count=20)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
