@@ -21,15 +21,23 @@ jobs:
           card: stats
           options: 'username=TavstalDev&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true'
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS }}
 
       - name: Generate top languages card
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
-          options: 'username=TavstalDev&count_private=true&exclude_repo=Redstoneplugins,Unturfield&layout=compact&theme=tokyonight&langs_count=20'
+          options: 'username=TavstalDev&count_private=true&exclude_repo=Redstoneplugins,Unturfield&layout=compact&theme=tokyonight&langs_count=10'
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS }}
+          
+      - name: Generate wakatime card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: wakatime
+          options: 'username=TavstalDev&theme=tokyonight&langs_count=10'
+          path: profile/wakatime.svg
+          token: ${{ secrets.GH_STATS }}
 
       - name: Commit cards
         run: |
