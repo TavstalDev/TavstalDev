@@ -35,10 +35,8 @@ I'm a passionate self-taught programmer from Hungary with a strong focus on C# a
 
 ![](https://komarev.com/ghpvc/?username=TavstalDev)
 
-> ⚠️ **Note:** If the stats below do not appear correctly, please try refreshing the page.
-
 ![Stats](./profile/stats.svg)
-![GitHub Streak](https://streak-stats.demolab.com/?user=TavstalDev&theme=tokyonight)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=TavstalDev&theme=tokyonight) -->
 
 ![Top Languages](./profile/top-langs.svg)
 
