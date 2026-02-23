@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="0.00"
           y="0"
-          width="134.05"
+          width="134.06"
           height="8"
           fill="#178600"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="134.05"
+          x="134.06"
           y="0"
-          width="88.47"
+          width="88.46"
           height="8"
           fill="#b07219"
         />
@@ -240,7 +240,7 @@
     <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#178600" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">C# 53.62%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">C# 53.63%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
