@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="0.00"
           y="0"
-          width="135.33"
+          width="135.34"
           height="8"
           fill="#178600"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="135.33"
+          x="135.34"
           y="0"
-          width="87.47"
+          width="87.46"
           height="8"
           fill="#b07219"
         />
@@ -180,7 +180,7 @@
           data-testid="lang-progress"
           x="222.80"
           y="0"
-          width="17.53"
+          width="17.52"
           height="8"
           fill="#f1e05a"
         />
@@ -245,7 +245,7 @@
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Java 34.99%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Java 34.98%</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
