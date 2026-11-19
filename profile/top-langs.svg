@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="0.00"
           y="0"
-          width="147.94"
+          width="148.11"
           height="8"
           fill="#7355dd"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="147.94"
+          x="148.11"
           y="0"
-          width="79.23"
+          width="79.04"
           height="8"
           fill="#b07219"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="227.17"
+          x="227.15"
           y="0"
-          width="14.62"
+          width="14.63"
           height="8"
           fill="#f1e05a"
         />
@@ -188,9 +188,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="241.79"
+          x="241.78"
           y="0"
-          width="14.13"
+          width="14.14"
           height="8"
           fill="#e34c26"
         />
@@ -200,7 +200,7 @@
           data-testid="lang-progress"
           x="245.92"
           y="0"
-          width="12.55"
+          width="12.56"
           height="8"
           fill="#663399"
         />
@@ -208,9 +208,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.48"
+          x="248.47"
           y="0"
-          width="11.24"
+          width="11.25"
           height="8"
           fill="#3178c6"
         />
@@ -250,12 +250,12 @@
     <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#7355dd" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">C# 59.18%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">C# 59.24%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Java 31.69%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Java 31.61%</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
